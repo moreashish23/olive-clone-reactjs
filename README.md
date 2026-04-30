@@ -6,11 +6,11 @@ This project is a pixel-perfect recreation of the Olive app landing page based o
 
 ## Live Demo
 
-[https://olive-clone-reactjs.vercel.app]
+[Olive-Live](https://olive-clone-reactjs.vercel.app)
 
 ## GitHub Repository
 
-[https://github.com/moreashish23/olive-clone-reactjs]
+ [Github Repo](https://github.com/moreashish23/olive-clone-reactjs)
 
 ---
 
@@ -106,4 +106,3 @@ The purpose of this project is to demonstrate:
 ## Author
 
 Ashish More
-Frontend Developer
